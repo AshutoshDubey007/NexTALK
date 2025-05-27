@@ -42,7 +42,12 @@ npm install
 npm run dev
 ```
 
-## 💻 Run the Frontend
+## 💻 Run the Project
+
+```bash
+https://nextalk-o7mk.onrender.com/
+```
+
 
 ```bash
 cd frontend
